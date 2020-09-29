@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25c985ba-3285-4ebe-b112-4c23c15de373" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1i0xeC8KZeOjH6klSRKHktZ9DQ8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/kafka" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/nasruddin/kafka-client/user-data-producer" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="user-data-producer" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/nasruddin/kafka-client/user-data-producer" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/nasruddin/kafka-client/user-data-producer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1320" height="176" key="GridCell.Tab.0.bottom" timestamp="1601403080278">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="176" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601403080278" />
+    <state width="1320" height="176" key="GridCell.Tab.0.center" timestamp="1601403080277">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="176" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1601403080277" />
+    <state width="1320" height="176" key="GridCell.Tab.0.left" timestamp="1601403080277">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="176" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1601403080277" />
+    <state width="1320" height="176" key="GridCell.Tab.0.right" timestamp="1601403080277">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="176" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1601403080277" />
+    <state width="1320" height="219" key="GridCell.Tab.1.bottom" timestamp="1601059008728">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601059008728" />
+    <state width="1320" height="219" key="GridCell.Tab.1.center" timestamp="1601059008727">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1601059008727" />
+    <state width="1320" height="219" key="GridCell.Tab.1.left" timestamp="1601059008726">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1601059008726" />
+    <state width="1320" height="219" key="GridCell.Tab.1.right" timestamp="1601059008727">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1601059008727" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1601402128815">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.27.1366.741@0.27.1366.741" timestamp="1601402128815" />
+    <state x="374" y="136" width="618" height="522" key="find.popup" timestamp="1601402051398">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="374" y="136" width="618" height="522" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1601402051398" />
+  </component>
+</project>

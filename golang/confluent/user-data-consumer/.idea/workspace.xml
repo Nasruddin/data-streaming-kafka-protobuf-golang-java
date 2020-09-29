@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="861d9382-f23f-4770-811e-579f2e7af12b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1i0xlYy75exgRuNfYyjqIvUgOHQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/nasruddin/kafka-client/user-data-consumer" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="user-data-consumer" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/nasruddin/kafka-client/user-data-consumer" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/nasruddin/kafka-client/user-data-consumer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1320" height="263" key="GridCell.Tab.0.bottom" timestamp="1601403030738">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="263" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601403030738" />
+    <state width="1320" height="263" key="GridCell.Tab.0.center" timestamp="1601403030737">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="263" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1601403030737" />
+    <state width="1320" height="263" key="GridCell.Tab.0.left" timestamp="1601403030736">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="263" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1601403030736" />
+    <state width="1320" height="263" key="GridCell.Tab.0.right" timestamp="1601403030737">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="263" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1601403030737" />
+    <state x="172" y="32" key="SettingsEditor" timestamp="1601058500224">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="32" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1601058500224" />
+  </component>
+</project>

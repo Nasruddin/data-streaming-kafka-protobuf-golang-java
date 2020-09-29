@@ -1,0 +1,21 @@
+syntax = "proto3";
+import "google/protobuf/timestamp.proto";
+
+package com.javatab.kafka.model.proto;
+option java_outer_classname = "UserProtos";
+
+message User {
+    string name = 1;
+    string id = 2;
+    string email = 3;
+    google.protobuf.Timestamp created_on = 4;
+    Address address = 5;
+
+    message Address {
+        string streetName = 1;
+        string city = 2;
+        string state = 3;
+        string zipCode = 4;
+
+    }
+}
