@@ -1,5 +1,5 @@
-# protobuf-kafka-golang-java
-Integration of Kafka with Protocol Buffer using Golang &amp; Java
+# data-streaming-kafka-protobuf
+Data streaming between Java and Golang service with Kafka using Protocol Buffers.
 
 ## Documentation 
 WIP
